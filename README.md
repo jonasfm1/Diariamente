@@ -1,2 +1,1 @@
-# Diariamente
-introduzindo progeto
+# Diariamente Inserindo Progeto
